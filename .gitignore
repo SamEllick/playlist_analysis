@@ -1,0 +1,6 @@
+.env
+.scratch
+data/processed/*
+data/raw/*
+.vscode
+*.ipynb_checkpoints
