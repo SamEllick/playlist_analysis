@@ -1,9 +1,18 @@
 # playlist_analysis
-A deep dive into music playlists from a leading streaming service, explorings questions like:
+A deep dive into music playlists from a leading streaming service.
 
-* What makes a playlist good?
-* do own-brand playlists really flow better?
-* Why do rock music recomendations kinda suck?
+## Notebooks
+
+Planning to do 4 bits of work with this dataset, starting with unsupervised exploration, and then going deeper into track order and membership. Culminating with some insight, stats or models that can be used to help generate good playlists, with the potential to be popular.
+
+
+1. Latent rock genre analysis - exploring the different clusters of rock playlists
+
+**TO DO:**
+
+2. Playlist flow comparison - highlight and identify which playlists flow better in terms of e.g. tempo
+3. Hit track association model - should track X be a part of playlist Y?
+4. Create better rock playlists
 
 
 ## Data overview
